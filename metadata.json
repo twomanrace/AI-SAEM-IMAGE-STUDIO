@@ -1,0 +1,5 @@
+{
+  "name": "AI SAEM Image Studio",
+  "description": "An AI-powered image studio where you can upload an image or combine various options to generate new, unique images using Gemini.",
+  "requestFramePermissions": []
+}
